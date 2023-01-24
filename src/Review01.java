@@ -4,7 +4,7 @@ public class Review01 {
     public static void main(String[] args) {
         // TODO 自動生成されたメソッド・スタブ
         int num1 = 1500;
-        int num2 = 8;
+        int num2 = 10;
         int result = tax(num1, num2);
         int sum = num1 + (int)result;
 
